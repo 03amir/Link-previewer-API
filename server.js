@@ -1,6 +1,8 @@
 const express = require("express");
 const app = express();
 
+// HAVE TO ADD THE GITIGNORE FILE
+
 app.use(express.json());
 
 const cors = require("cors");
@@ -47,6 +49,7 @@ app.post("/", async (req, res) => {
   res.status(200).json({
     success: true,
     data: {
+      url,
       title,
       description,
       image,

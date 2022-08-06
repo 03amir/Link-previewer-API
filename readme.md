@@ -39,7 +39,8 @@ Link-Previewer API  is a API that provides metadata eg: Title, Thumbnail/Favicon
     
 # Dempo App
 
--  [Link-pre-viewer](https://expressjs.com/en/5x/api.html).  
+-  [link-pre-viewer](https://github.com/03amir/link-pre-viewer).  
+
 # Resources
 
 - To get started with `Express JS` or brush up your skills, check out the official [Express JS Documentation](https://expressjs.com/en/5x/api.html).
